@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, everyone!
 
 You can use the [editor on GitHub](https://github.com/choodessny/omg/edit/gt-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
